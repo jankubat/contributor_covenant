@@ -61,6 +61,10 @@ languageCode = "bs"
 languageName = "Català"
 languageCode = "ca"
 
+[Languages.cs]
+languageName = "čeština"
+languageCode = "cs"
+
 [Languages.de]
 languageName = "Deutsch"
 languageCode = "de"
